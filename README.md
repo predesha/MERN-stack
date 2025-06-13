@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>ABOUT ME</title>
+    </head>
+    <body>
+        <header>
+            <center>
+            <h1>About Me</h1>
+            </center>
+        </header>
+        <h2>INTRODUCTION</h2>
+        <p>Hi, I'm PREDESHA, a motivated and detail-oriented individual with a strong interest in MERN Stack. I'm currently a engineering student and focused on growing my skills and contributing effectively."</p>
+        <section id="EDUCATIONAL DETIALS">
+    <h2>EDUCATIONAL DETIALS</h2>
+    <table border="1">
+        <tr>
+            <th>Degree</th>
+            <th>Inistiution</th>
+            <th>Year of graduation</th>
+        </tr>
+        <tr>
+            <td>B.E computer science and engineering</td>
+            <td>S.A.engineering college</td>
+            <td>2023-2027</td>
+        </tr>
+    </table>
+    
+</section>
+<section id="project">
+    <h2>PROJECT</h2>
+    <ul>
+        <li>skincare app UI using figma</li>
+        <li>plants and seeds purchasing app</li>
+    </ul>
+</section>
+<section id="certificate">
+    <h2>CERTIFICATES</h2>
+    <ul>
+    <li>
+    <a href="https://content.mepro.pearson.com/pearsonmeprocontent//StudentCertificate/468751_1235.pdf">MePro Level 7</a>
+    </li>
+    <li>
+        <a href="https://content.mepro.pearson.com/pearsonmeprocontent//StudentCertificate/468751_1233.pdf">MePro Level 6</a>
+    </li>
+</ul>
+</section>
+<section id="Footer">
+    <footer>
+        <h4>CONTACT INFO</h4>
+        MAIL:<a href="mailto:2316114@saec.ac.in">2316114@saec.ac.in</a><br>
+        CONTACT NUMBER: 9876543210
+    </footer>
+</section>
+    </body>
+</html>
